@@ -1,58 +1,66 @@
 [
   {
     "count": 4,
-    "description": "Short Product Description1",
+    "description": "The set is made of a MEMBRANE type material and is insulated with polyester wool. The membrane material has the property that moisture only penetrates one way (to the outside) and you always feel dry and warm. Protects against frost up to -25 degrees Celsius.",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
-    "price": 2.4,
-    "title": "ProductOne"
+    "price": 599,
+    "title": "BARSFOREST winter set",
+    "image": "assets/image/Komplet-zimowy-BARS-SUCHA-TRZCINA-Wodoodporny-25C-EAN-GTIN-48024007.jfif"
   },
   {
     "count": 6,
-    "description": "Short Product Description3",
+    "description": "500M Cordless Fishing Lure Fishing Boat with 1 black color bait funnel",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
-    "price": 10,
-    "title": "ProductNew"
+    "price": 460,
+    "title": "Fishing Boat",
+    "image": "assets/image/500m-pilot-bezprzewodowy-lodka-na-przynety.jpg"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
+    "description": "FISHING FISHERIES LUCKY Sonar WIRELESS WiFi",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
-    "price": 23,
-    "title": "ProductTop"
+    "price": 445,
+    "title": "Fishfinder Lucky Sonar",
+    "image": "assets/image/ECHOSONDA-Wedkarska-LUCKY-Sonar-BEZPRZEWODOWA-WiFi.jfif"
   },
   {
     "count": 12,
-    "description": "Short Product Description7",
+    "description": "FISHING BOX + 200 ACCESSORIES",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductTitle"
+    "price": 199,
+    "title": "Fishing set Jaxon",
+    "image": "assets/image/duza-SKRZYNKA-WEDKARSKA-zestaw-200-akcesoriow.jfif"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
+    "description": "Waterproof galoshes made of EVA foam. Wellington boots reach below the knee.",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
-    "price": 23,
-    "title": "Product"
+    "price": 209,
+    "title": "Rain boots Demar r. 43",
+    "image": "assets/image/Buty-Wedkarskie-Demar-Eva-Wyjmowany-Wklad-Welna.jfif"
   },
   {
     "count": 8,
-    "description": "Short Product Description4",
+    "description": "SAXCARP PROTECTIVE CARP STAND - 90110  140 x 250 cm",
     "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
-    "price": 15,
-    "title": "ProductTest"
+    "price": 279,
+    "title": "Umbrella Saxcarp",
+    "image": "assets/image/OCHRONNE-STANOWISKO-KARPIOWE-SAXCARP-90110.jfif"
   },
   {
     "count": 2,
-    "description": "Short Product Descriptio1",
+    "description": "A SET of 20 pieces of multi-colored GUM KOPYTO lures",
     "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
-    "price": 23,
-    "title": "Product2"
+    "price": 28,
+    "title": "MF Hooves W20G",
+    "image": "assets/image/Zestaw-20-szt-KOPYTO-guma-10cm-8-4g-12cm-13g.jfif"
   },
   {
     "count": 3,
-    "description": "Short Product Description7",
+    "description": "5 x Jaxon 4 cm wobbler 4,8 g + elegant Mikado box",
     "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductName"
+    "price": "56",
+    "title": "Wobbler Jaxon 5XWOBAR-P",
+    "image": "assets/image/Zestaw-na-Spinning-5x-wobler-Jaxon-Klen-Pudelko.jfif"
   }
 ]
